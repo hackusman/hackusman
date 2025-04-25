@@ -1,4 +1,4 @@
-<h1 align="center">👋 Yo, I’m hackusman (aka hackus_man)</h1>
+<h1 align="center">👋 Yo, I’m hackus_man</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 </p>
