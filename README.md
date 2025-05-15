@@ -8,7 +8,7 @@
 ### Mathematician || Jr Web Pentester || CTF Player || Aspiring full stack web developer
 
 - 👀 I’m passionate about **cybersecurity** and all things tech.
-- 🌱 Currently learning **ethical hacking**, **web security**, and **OSINT**.
+- 🌱 I am currently learning **web development** to be more comfortable during pentests and to have a plus to go further
 - 💬 Let’s connect and collab on cool infosec & dev projects.
 - 📫 Reach me at: **hackustheinforman@gmail.com**
 - ⚡ Fun fact: I love CTFs, riddles, and breaking stuff (ethically 😉)
@@ -20,7 +20,6 @@
 - 🚀 Building tools, scripts and learning every day
 - 🔭 Exploring Bug Bounty platforms
 - 🛡️ Practicing with **Kali Linux**, **Burp Suite**, **Nmap**, and more!
-- 🎯 Pwn some flags, teach what I learn, and grow the community!
 
 ---
 
