@@ -5,7 +5,7 @@
 
 ---
 
-### 🔐 Cybersecurity Enthusiast | Ethical Hacker in Training | Puzzle Addict 🧩
+### Mathematician || Jr Web Pentester || CTF Player || Aspiring full stack web developer
 
 - 👀 I’m passionate about **cybersecurity** and all things tech.
 - 🌱 Currently learning **ethical hacking**, **web security**, and **OSINT**.
