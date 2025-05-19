@@ -56,17 +56,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackusman&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-### 🔗 Portfolio
-
-<p align="center">
-  <a href="https://hackusman.github.io/calculator/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Projects-%23ff00cc?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Link">
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=120&section=footer"/>
